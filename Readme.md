@@ -32,6 +32,9 @@ Pregunta
 ![img_3.png](img_3.png)
 - Realizamoss un cambio desde la web al readme, llamado Modificacion Gael. Finalmente hacemos un commit, que lo he llamado cambio realizado
 
+![img_4.png](img_4.png)
+- Utilizo fetch para descargar los cambios realizados en mi repositorio
+
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
