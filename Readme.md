@@ -49,7 +49,7 @@ En esta captura podemos ver los commits realizados, en uno de ellos esta el comm
 - En esta captura podemos ver el cambio que hice desde la web.
 ![img_7.png](img_7.png)
 Para hacerlo unicamente tendriamos que ir al readme, darle al lapiz, modificar algo y pulsar a "commit changes"
-- Utiliza pull para descargar los cambios realizados en tu repositorio.
+- Utiliza pull para descargar los cambios realizados en el repositorio.
 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
