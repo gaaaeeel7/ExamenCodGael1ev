@@ -29,6 +29,10 @@ Pregunta
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
 
+![img_3.png](img_3.png)
+- Realizamos un cambio desde la web al readme, llamado Modificacion Gael. Finalmente hacemos un commit, que lo he llamado cambio realizado
+
+
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
