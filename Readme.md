@@ -51,6 +51,9 @@ En esta captura podemos ver los commits realizados, en uno de ellos esta el comm
 Para hacerlo unicamente tendriamos que ir al readme, darle al lapiz, modificar algo y pulsar a "commit changes"
 - Utiliza pull para descargar los cambios realizados en el repositorio.
 
+![img_8.png](img_8.png)
+- Utilizamos el comando "git pull origin main" y nos deberia de dar que esta actualizado como da en la imagen
+
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
