@@ -57,6 +57,9 @@ Para hacerlo unicamente tendriamos que ir al readme, darle al lapiz, modificar a
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+![img_9.png](img_9.png)
+- Para finalizar con el examen, vemos que al poner el comando "git log --oneline", tenemos el cambio que hicimos desde github, que se llama Apartado 3 - cambio realizado en github
+
 
 
 
