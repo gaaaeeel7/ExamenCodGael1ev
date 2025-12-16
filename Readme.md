@@ -45,6 +45,10 @@ En esta captura podemos ver los commits realizados, en uno de ellos esta el comm
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
+![img_6.png](img_6.png)
+- En esta captura podemos ver el cambio que hice desde la web.
+![img_7.png](img_7.png)
+Para hacerlo unicamente tendriamos que ir al readme, darle al lapiz, modificar algo y pulsar a "commit changes"
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
 
 Pregunta
