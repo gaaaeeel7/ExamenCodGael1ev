@@ -24,6 +24,21 @@
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
+![img_10.png](img_10.png)
+Primero confirmamos que estamos en mi repositorio
+Y luego ya hacemos los commits necesarios que tengamos que hacer
+Tendriamos que usar los comandos:
+
+* git add README.md
+* git commit -m "Apartado 1 - cambio de prueba"
+* git push origin main
+Y se nos subiria a nuestro repositorio
+
+
+
+
+
+
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
