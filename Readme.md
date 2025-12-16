@@ -36,9 +36,12 @@ Pregunta
 - Utilizo fetch para descargar los cambios realizados en mi repositorio
 
 
+
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+![img_5.png](img_5.png)
+En esta captura podemos ver los commits realizados, en uno de ellos esta el commit que hice desde github, que se llama "cambio realizado". Para comprobar que está correctamente tendriamos que poner en la terminal "git log --oneline"
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
