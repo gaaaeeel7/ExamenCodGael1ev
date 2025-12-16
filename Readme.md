@@ -6,11 +6,15 @@
 - Los commits de cada apartado deben tener el mensaje *"Apartado X - descripción del cambio realizado"*
 - Entrega en la tarea de Moodle tu repositorio
 - Solo se corrigen los commits que estén en el repositorio remoto
+# Gael Marcelino Docio
 
 ### Apartado 1
 
 - Clona este repositorio.
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
+
+
+
 
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
