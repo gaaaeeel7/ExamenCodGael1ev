@@ -13,7 +13,12 @@
 - Clona este repositorio.
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
 
-
+![img.png](img.png)
+- En esta captura indico que clonamos el repositorio del examen. Ahora que tenemos el repositorio clonado voy a hacer un repositorio propio para hacer una copia del repositorio del examen.
+![img_1.png](img_1.png)
+- En esta otra imagen podemos ver que hice un repositorio propio para hacer una copia de tu repositorio. Ahora solamente para hacer los commits y los push tendriamos que cambiar el "manage remote" desde pycharm. En la siguiente captura indicaré el "manage remote"
+![img_2.png](img_2.png)
+- Para terminar tendriamos que poner la URL de tu repositorio y de ahi ya subirías los commits y push necesarios
 
 
 Pregunta 
