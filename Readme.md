@@ -30,7 +30,7 @@ Pregunta
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
 
 ![img_3.png](img_3.png)
-- Realizamos un cambio desde la web al readme, llamado Modificacion Gael. Finalmente hacemos un commit, que lo he llamado cambio realizado
+- Realizamoss un cambio desde la web al readme, llamado Modificacion Gael. Finalmente hacemos un commit, que lo he llamado cambio realizado
 
 
 Pregunta
